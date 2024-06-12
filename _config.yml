@@ -2,8 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: From Office to Dynamic
+copyright: "2025"
 author: Gideon's Son
-logo: https://abikesa.github.io/scripts/_images/a5d9022b1b91af70e3c5375085e293738dbc4d61c93f07cbeaf548e020bf9587.png
+logo: kodheyo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
